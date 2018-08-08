@@ -22,7 +22,7 @@ Ce dépôt a pour but de rassembler les différents schémas de données produit
 ## A venir
 
 - [Commande publique : Recensement des profils d'acheteurs](https://doc.data.gouv.fr/faq/comment-remplir-les-obligations-légales-de-déclaration-des-profils-d-acheteur.html)
-- Défibrilateurs cardiaques
+- Défibrillateurs cardiaques
 
 ## Comment valider un fichier
 
